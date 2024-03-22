@@ -208,6 +208,7 @@ def find_department_by_name():
 Run `python lib/cli.py` to test the function:
 
 ```bash
+
 Please select an option:
 0. Exit the program
 1. List all departments
